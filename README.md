@@ -15,9 +15,9 @@ Classificação: para prever se a laranja é de qualidade satisfatória ou não.
 
 ## Desenvolvedores
 
-[Augusto Ferreira](https://github.com/AugustoCSF)
-[Giulia Buonafina](https://github.com/GiuBuonafina)
-[Isabela Buzzo](https://github.com/isabelabuzzo)
+- [Augusto Ferreira](https://github.com/AugustoCSF)
+- [Giulia Buonafina](https://github.com/GiuBuonafina)
+- [Isabela Buzzo](https://github.com/isabelabuzzo)
 
 ## Tecnologias Utilizadas
 
